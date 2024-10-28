@@ -16,18 +16,7 @@ de recetas basadas en los productos disponibles.
 - `docs/`: Contiene toda la documentación del proyecto.
 - `requirements.txt`: Lista de dependencias necesarias para ejecutar el proyecto.
 
-## Instalación y Configuración
-1. Clonar el repositorio:
-    ```bash
-    git clone https://github.com/usuario/nevera_inteligente_project.git
-    ```
-2. Instalar las dependencias:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-## Uso del proyecto
-Para ejecutar cada módulo, sigue las instrucciones en los documentos correspondientes dentro del directorio `docs/`.
 
 <!---
 Risagaki/Risagaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
