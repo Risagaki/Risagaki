@@ -14,7 +14,6 @@ de recetas basadas en los productos disponibles.
 
 ## Estructura del proyecto
 - `docs/`: Contiene toda la documentación del proyecto.
-- `src/`: Código fuente dividido en módulos (IA, cámaras, aplicación).
 - `requirements.txt`: Lista de dependencias necesarias para ejecutar el proyecto.
 
 ## Instalación y Configuración
